@@ -1,8 +1,8 @@
 dataset,dimension,status
 Market-1501,Collection & Purpose,D
 Market-1501,Consent & Autonomy,ND
-Market-1501,Privacy & Identifiability,P
-Market-1501,Representation & Label Provenance,P
+Market-1501,Privacy & Identifiability,D
+Market-1501,Representation & Label Provenance,D
 Market-1501,Fairness Auditability,P
 Market-1501,Access & Use Governance,P
 Market-1501,Withdrawal & Lifecycle Management,ND
