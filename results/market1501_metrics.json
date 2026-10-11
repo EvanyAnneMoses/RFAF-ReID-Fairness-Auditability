@@ -1,0 +1,36 @@
+{
+  "gender": {
+    "attribute": "gender",
+    "categories": [
+      "male",
+      "female"
+    ],
+    "proportions": {
+      "male": 0.563,
+      "female": 0.437
+    },
+    "normalized_shannon": 0.988517,
+    "inclusivity_reference": [
+      "male",
+      "female",
+      "other"
+    ],
+    "inclusivity_ratio": 0.666667
+  },
+  "age": {
+    "attribute": "age",
+    "categories": [
+      "young_or_child",
+      "teenager",
+      "adult",
+      "old"
+    ],
+    "proportions": {
+      "young_or_child": 0.011,
+      "teenager": 0.805,
+      "adult": 0.175,
+      "old": 0.009
+    },
+    "normalized_shannon": 0.41235
+  }
+}
