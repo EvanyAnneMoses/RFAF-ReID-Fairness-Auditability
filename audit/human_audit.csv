@@ -1,0 +1,36 @@
+dataset,dimension,status
+DukeMTMC / DukeMTMC-reID,Collection & Purpose,D
+DukeMTMC / DukeMTMC-reID,Consent & Autonomy,D
+DukeMTMC / DukeMTMC-reID,Privacy & Identifiability,P
+DukeMTMC / DukeMTMC-reID,Representation & Label Provenance,P
+DukeMTMC / DukeMTMC-reID,Fairness Auditability,P
+DukeMTMC / DukeMTMC-reID,Access & Use Governance,D
+DukeMTMC / DukeMTMC-reID,Withdrawal & Lifecycle Management,P
+Market-1501,Collection & Purpose,D
+Market-1501,Consent & Autonomy,ND
+Market-1501,Privacy & Identifiability,P
+Market-1501,Representation & Label Provenance,D
+Market-1501,Fairness Auditability,P
+Market-1501,Access & Use Governance,P
+Market-1501,Withdrawal & Lifecycle Management,ND
+CUHK03,Collection & Purpose,D
+CUHK03,Consent & Autonomy,ND
+CUHK03,Privacy & Identifiability,P
+CUHK03,Representation & Label Provenance,P
+CUHK03,Fairness Auditability,ND
+CUHK03,Access & Use Governance,P
+CUHK03,Withdrawal & Lifecycle Management,ND
+MSMT17,Collection & Purpose,D
+MSMT17,Consent & Autonomy,ND
+MSMT17,Privacy & Identifiability,P
+MSMT17,Representation & Label Provenance,P
+MSMT17,Fairness Auditability,ND
+MSMT17,Access & Use Governance,D
+MSMT17,Withdrawal & Lifecycle Management,ND
+Sony FHIBE,Collection & Purpose,D
+Sony FHIBE,Consent & Autonomy,D
+Sony FHIBE,Privacy & Identifiability,D
+Sony FHIBE,Representation & Label Provenance,D
+Sony FHIBE,Fairness Auditability,D
+Sony FHIBE,Access & Use Governance,D
+Sony FHIBE,Withdrawal & Lifecycle Management,D

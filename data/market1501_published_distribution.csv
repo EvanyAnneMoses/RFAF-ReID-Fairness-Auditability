@@ -1,0 +1,7 @@
+attribute,category,proportion
+gender,male,0.563
+gender,female,0.437
+age,young_or_child,0.011
+age,teenager,0.805
+age,adult,0.175
+age,old,0.009
