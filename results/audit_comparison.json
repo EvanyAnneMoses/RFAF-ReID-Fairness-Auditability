@@ -1,7 +1,13 @@
 {
+  "dataset": "Market-1501",
   "n_compared": 7,
-  "exact_agreement": 1.0,
-  "cohen_kappa": 1.0,
-  "potential_overclaim_rate": 0.0,
-  "disagreements": []
+  "exact_agreement": 0.8571428571,
+  "cohen_kappa": 0.7878787879,
+  "disagreements": [
+    {
+      "dimension": "Privacy & Identifiability",
+      "human_status": "P",
+      "azure_status": "D"
+    }
+  ]
 }
