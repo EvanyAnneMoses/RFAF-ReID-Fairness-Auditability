@@ -9,13 +9,7 @@
       "male": 0.563,
       "female": 0.437
     },
-    "normalized_shannon": 0.988517,
-    "inclusivity_reference": [
-      "male",
-      "female",
-      "other"
-    ],
-    "inclusivity_ratio": 0.666667
+    "normalized_shannon": 0.988517
   },
   "age": {
     "attribute": "age",
